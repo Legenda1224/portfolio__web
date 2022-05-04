@@ -1369,9 +1369,7 @@ footer{
         font-size: 25px;
     }
 
-    .icon__strelka{
-        display: none;
-    }
+
     .button{
         display: flex;
         justify-content: center;
