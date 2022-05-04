@@ -566,7 +566,6 @@ nav .menu{
 
 @keyframes icon{
     0%{
-        right: -1000px;
         opacity: 0;
     }
 
